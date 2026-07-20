@@ -21,7 +21,7 @@ Ever wanted to play Elden Ring *as* Sunny from Shadow Slave? Nioh as Guts? That'
 
 | Incarnation | Path | Status |
 |---|---|---|
-| **SUNNY** | Shadow Slave → Elden Ring | 🟢 **[Enter the Incarnation](https://claude.ai/public/artifacts/9855b0df-b598-49a7-a569-1da139202653)** |
+| **SUNNY** | Shadow Slave → Elden Ring | 🟢 **[Enter the Incarnation](https://claude.ai/public/artifacts/5fbd8bf3-1dbb-4b93-a903-c0a79743acc9)** |
 | **JASON** | He Who Fights With Monsters → Elden Ring | 🛠 In the forge |
 | **Your champion** | Any series → Any game | ✍ [Petition below](#-petition-the-gate) |
 
