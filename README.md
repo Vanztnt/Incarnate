@@ -27,7 +27,7 @@ Ever wanted to play Elden Ring *as* Sunny from Shadow Slave? Nioh as Guts? That'
 
 ## ✦ The Gate
 
-**[→ Enter the Gate](https://claude.ai/public/artifacts/f6ce1bf1-bb93-4729-93e3-de4c79155a08)** — browse the Library and petition from one place.
+**[→ Enter the Gate](https://claude.ai/public/artifacts/f31fc12a-5cd4-4f69-ba8d-b949ba57af92)** — browse the Library and petition from one place.
 
 ## ✦ Petition the Gate
 
